@@ -10,7 +10,7 @@ Through extensive research, it is evident that when repeating the motion of remo
 ![Dimensions-2](Dimension_2.pdf)
 
 ## Final Production
-![Dimensions-3](Final_Product.jpg)
+![Dimensions-3](Final_Product.png)
 
 ## .stl View
-![Dimensions-3](hammer_final.stl)
+![Dimensions-4](hammer_final.stl)
