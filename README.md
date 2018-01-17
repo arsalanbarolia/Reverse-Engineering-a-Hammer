@@ -19,4 +19,4 @@ Contributors: Theo Konstantinidis and Funto Dabiri
 ---
 
 ## Final 3D Product
-![Dimensions-3](Final_Product.png)
+![Dimensions-3](Final_3D_Product.png)
