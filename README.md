@@ -4,6 +4,8 @@ Through extensive research, it is evident that when repeating the motion of remo
 
 A .stl file is attached above for further inspection of the CAD data.
 
+Contributors: Theo Konstantinidis and Funto Dabiri
+
 ## Drawing No.: 1 of 2
 ![Dimensions-1](Dimension_1.png)
 
