@@ -11,8 +11,12 @@ Contributors: Theo Konstantinidis and Funto Dabiri
 ## Drawing No.: 1 of 2
 ![Dimensions-1](Dimension_1.png)
 
+---
+
 ## Drawing No.: 2 of 2
 ![Dimensions-2](Dimension_2.png)
+
+---
 
 ## Final 3D Product
 ![Dimensions-3](Final_Product.png)
