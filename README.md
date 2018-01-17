@@ -4,10 +4,10 @@ Through extensive research, it is evident that when repeating the motion of remo
 
 A .stl file is attached above for further inspection of the CAD data.
 
-## Dimensions 1 of 2
+## Drawing 1 of 2
 ![Dimensions-1](Dimension_1.png)
 
-## Dimensions 2 of 2
+## Drawing 2 of 2
 ![Dimensions-2](Dimension_2.png)
 
 ## Final 3D Product
