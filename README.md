@@ -1,22 +1,76 @@
-# Redesigned_Hammer
+<a href='#project' id='project' class='anchor' aria-hidden='true'></a>
 
-Through extensive research, it is evident that when repeating the motion of removing a nail, the body is in an injury prone positon. Knowing this, the placement of the claw was relocated to the bottom of the handle, of the hammer, facing the same direction as the hammer head.  This idea improves both the ergonomics and the functionality of the hammer. 
+# Reverse Engineering a Hammer
 
-A .stl file is attached above for further inspection of the CAD data.
+<p align="center">
+    <img src="images/Final_3D_Product.png" alt="Finished product of the reverse engineered hammer.">
+</p>
 
-Contributors: Theo Konstantinidis and Funto Dabiri
-
----
-
-## Drawing No.: 1 of 2
-![Dimensions-1](Dimension_1.png)
+> Brainstorming, building, and redesigning a hammer to be ergonically friendly through reverse engineering methods.
 
 ---
 
-## Drawing No.: 2 of 2
-![Dimensions-2](Dimension_2.png)
+### Table of Contents
+
+- [Description](#description)
+- [Dimensions and Results](#dimensions-and-results)
+- [Contributions](#contributions)
+- [Author Info](#author-info)
 
 ---
 
-## Final 3D Product
-![Dimensions-3](Final_3D_Product.png)
+## Description
+
+Through extensive research, it was evident that when repeating the motion of removing a nail, the body is in an injury prone positon. Knowing this, the placement of the claw was relocated to the bottom of the hammer - facing the same direction as the hammer head. This idea improves both the ergonomics and the functionality of the hammer.
+
+A [.stl file](.stl-file/hammer_final.stl) is attached above for further inspection of the CAD data.
+
+[Back To The Top](#project)
+
+---
+
+## Dimensions and Results
+
+<p align="center">
+ <img height= "600" src="images/Dimension_1.png" alt="Parameters of the redesined Hammer">
+</p>
+
+<p align="center">
+ <img height = "600" width="460" src="images/Dimension_2.png" alt="Rendered Image of the Hammer">
+</p>
+
+<p align="center">
+ <img  src="images/Final_3D_Product.png" alt="Printed 3D Model">
+</p>
+
+[Back To The Top](#project)
+
+---
+
+## Contributions
+
+<h4> Theo Konstantinidis</h4>
+
+- LinkedIn - [https://ca.linkedin.com/in/theo-konstantinidis-1b0b25126](https://ca.linkedin.com/in/theo-konstantinidis-1b0b25126)
+
+<h4> Funto Dabiri</h4>
+
+- LinkedIn - [https://www.linkedin.com/in/funto-dabiri/](https://www.linkedin.com/in/funto-dabiri/)
+
+[Back To The Top](#project)
+
+---
+
+## Author Info
+
+<h4> Arsalan Barolia</h4>
+
+- LinkedIn - [https://www.linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
+- GitHub - [https://github.com/arsalanbarolia](https://github.com/arsalanbarolia)
+- Website - [Enter domain here](enter domain here)
+
+<p></p>
+
+[Back To The Top](#project)
+
+---
