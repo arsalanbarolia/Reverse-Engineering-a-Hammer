@@ -36,7 +36,7 @@ A [.stl file](.stl-file/hammer_final.stl) is attached above for further inspecti
 </p>
 
 <p align="center">
- <img height = "600" width="460" src="images/Dimension_2.png" alt="Rendered Image of the Hammer">
+ <img  width="775" src="images/Dimension_2.png" alt="Rendered Image of the Hammer">
 </p>
 
 <p align="center">
