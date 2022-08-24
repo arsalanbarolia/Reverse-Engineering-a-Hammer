@@ -8,6 +8,8 @@
 
 > Brainstorming, building, and redesigning a hammer to be ergonically friendly through reverse engineering methods.
 
+> A [.stl file](files/hammer_final.stl) is attached above for further inspection of the CAD data.
+
 ---
 
 ### Table of Contents
@@ -22,8 +24,6 @@
 ## Description
 
 Through extensive research, it was evident that when repeating the motion of removing a nail, the body is in an injury prone positon. Knowing this, the placement of the claw was relocated to the bottom of the hammer - facing the same direction as the hammer head. This idea improves both the ergonomics and the functionality of the hammer.
-
-> A [.stl file](files/hammer_final.stl) is attached above for further inspection of the CAD data.
 
 [Back To The Top](#project)
 
@@ -65,9 +65,9 @@ Through extensive research, it was evident that when repeating the motion of rem
 
 <h4> Arsalan Barolia</h4>
 
-- LinkedIn - [https://www.linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
-- GitHub - [https://github.com/arsalanbarolia](https://github.com/arsalanbarolia)
-- Website - [Enter domain here](enter domain here)
+- LinkedIn - [linkedin.com/in/arsalanbarolia](https://www.linkedin.com/in/arsalanbarolia)
+- GitHub - [github.com/arsalanbarolia](https://github.com/arsalanbarolia)
+- Website - [arsalanbarolia.com](https://arsalanbarolia.com)
 
 <p></p>
 
